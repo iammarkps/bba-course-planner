@@ -1,0 +1,1010 @@
+{
+  "2303165": {
+    "name": "Man and Environment (Social Sciences)",
+    "credit": "3(3-0-6)",
+    "abbrev": "MAN & ENVIRONMENT",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Introduction to the key concepts and principles on how nature works; understanding of the basic relationships between man and environment; bio- history of man and ecosphere; explanation to demonstrate interconnection between environmental and resource problems and human and must be understood by multidisciplinary, holistic approach; suggestion to the solutions for sustainable earth society."
+  },
+  "2400104": {
+    "name": "Politics and Government of Thailand (Social Sciences)",
+    "credit": "3(3-0-6)",
+    "abbrev": "POL GOVT THAI",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Evolution of Thai politics and government; the growth of democratic forces; expansion of public bureaucracy in the context of economic changes; various issues in Thai politics and government: instability of government, administrative centralization, constitution, political parties and parliamentary system, election, authoritarianism in Thai political system and government, ex-parliamentary politics."
+  },
+  "2403183": {
+    "name": "Society and Culture (Social Sciences)",
+    "credit": "3(3-0-6)",
+    "abbrev": "SOCIETY & CULTURE",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Relationship between various disciplines in social sciences; nature of mankind, human society, social and cultural change and social crisis."
+  },
+  "2541160": {
+    "name": "Creativity in Urban Living (Social Sciences)",
+    "credit": "3(3-0-6)",
+    "abbrev": "CREAT URB LIVING",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Overview of the historical development of arts and creativity in urban living; elements and patterns of urban living; the changes of daily life due to modern city; creative ways of living due to new technologies and urban patterns."
+  },
+  "3800202": {
+    "name": "Psychology for Life and Work (Social Sciences)",
+    "credit": "3(3-0-6)",
+    "abbrev": "PSY LIFE WORK",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Application of Psychological concepts and theories to understanding of \"self\" and self-management, learning and learning skill improvement, love and relationships, working in organizations, developing values of life."
+  },
+  "2314255": {
+    "name": "Elementary Food Technology (Sciences and Mathematics)",
+    "credit": "3(3-0-6)",
+    "abbrev": "ELEMENT FOOD TECH",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Principle of food preservation and processing; chemistry of food microbiology associated with food."
+  },
+  "2207103": {
+    "name": "Philosophy and Logic (Humanity)",
+    "credit": "3(3-0-6)",
+    "abbrev": "PHILOS LOGIC",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Meaning and scope of philosophy; major problems of philosophy: the problems of ultimate reality, knowledge and sources of knowledge, ethics, aesthetics, and applied philosophy; logic as an instrument of philosophy; nature of inductive and deductive methods of reasoning; principles of valid and invalid reasoning."
+  },
+  "2541152": {
+    "name": "Creative and Critical Problem Solving (Humanity)",
+    "credit": "3(1-4-4)",
+    "abbrev": "C/C PROB SOLV",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Overview of human problems from daily life to world problems with emphasis on design and planning problem solving; types and nature of problems; problem seeking, problem definitions and problem-solving process; positive attitudes for problem solving; symbiosis of creative and critical thinking in problem solving; development of problem-solving skills through problem- based learning projects and case studies."
+  },
+  "2542003": {
+    "name": "Design Thinking for Innovation (Humanity)",
+    "credit": "3(3-0-6)",
+    "abbrev": "DSGN THNK INNV",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Frameworks, practices, processes and tools of Design Thinking for innovation; key concepts, principles and practical tools of Design thinking as a systemic methodology for planning in business and non-business contexts; design tools to approach real world problem: problem finding, problem setting, problem solving; ideas generation techniques and creativity tools; application of Inductive, deductive and abductive reasoning; visual rhetoric for communication and narrative device; hands-on practice."
+  },
+  "0201123": {
+    "name": "Culture and Tradition in Thai Lifestyle (Interdisciplinary)",
+    "credit": "3(2-2-5)",
+    "abbrev": "CULT TRAD TH LIFE",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Integration of multidiscipline, including social; humanity (anthropology); religious; culture; and belief, to describe the cultural and traditional practices in Thai lifestyles from birth to death. Thinness, Thai culture and traditional practices components, analysis and understanding the advantages, comparative cultures among ASIAN community, scientifically described, self-development of personality and characters required in the graduates, learning by participation and practicing, conducting a project, in teamwork."
+  },
+  "2222001": {
+    "name": "Mandarin I",
+    "credit": "3(3-0-6)",
+    "abbrev": "MANDARIN I",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "The sound system of Mandarin; basic syntactic structures; basic vocabulary in everyday life, with emphasis on correct pronunciation; knowledge of 500 Chinese characters."
+  },
+  "2222002": {
+    "name": "Mandarin II",
+    "credit": "3(3-0-6)",
+    "abbrev": "MANDARIN II",
+    "prereq": [2222001],
+    "raw_prereq": "2222001 MANDARIN I OR CONSENT OF FACULTY",
+    "description": "Vocabulary on directions, travels, communications; significant Mandarin grammatical structures and sentence patterns, with emphasis on conversation practice; knowledge of 1,000 Chinese characters."
+  },
+  "2222003": {
+    "name": "Business Chinese",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUSINESS CHIN",
+    "prereq": [2222002],
+    "raw_prereq": "2222002 MANDARIN II OR CONSENT OF FACULTY",
+    "description": "Basic Mandarin vocabulary and expressions used in domestic and international trade, business and banking; secretarial work and business writing; speaking and writing skills."
+  },
+  "2223001": {
+    "name": "Japanese I",
+    "credit": "3(3-0-6)",
+    "abbrev": "JP I",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Japanese words (approximately 800) and basic sentence patterns; pronunciation, vocabulary usage and greeting expressions."
+  },
+  "2223002": {
+    "name": "Japanese II",
+    "credit": "3(3-0-6)",
+    "abbrev": "JP II",
+    "prereq": [2223001],
+    "raw_prereq": "2223001 JP I OR CONSENT OF FACULTY",
+    "description": "Approximately 800 additional words and additional basic sentence patterns; vocabulary usage and expressions in everyday conversation."
+  },
+  "2223003": {
+    "name": "Japanese III",
+    "credit": "3(3-0-6)",
+    "abbrev": "JP III",
+    "prereq": [2223002],
+    "raw_prereq": "2223002 JP II OR CONSENT OF FACULTY",
+    "description": "Listening and speaking skills; appropriate fundamental language usage according to Japanese culture."
+  },
+  "2231011": {
+    "name": "Fundamental French I",
+    "credit": "3(2-2-5)",
+    "abbrev": "FUNDAMENTAL FR I",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Basic French grammar, vocabulary and expressions used in daily communication."
+  },
+  "2231012": {
+    "name": "Fundamental French II",
+    "credit": "3(2-2-5)",
+    "abbrev": "FUNDAMENTAL FR II",
+    "prereq": [2231011],
+    "raw_prereq": "2231011",
+    "description": "French grammar at an advanced level, vocabulary and expressions used in communication."
+  },
+  "2231013": {
+    "name": "FUNDAMENTAL FR III",
+    "credit": "3(2-2-5)",
+    "abbrev": "FUNDAMENTAL FR III",
+    "prereq": [2231012],
+    "raw_prereq": "2231012",
+    "description": "Practice in listening, speaking, reading and writing complex sentences, with emphasis on vocabulary and expressions concerning French life and culture."
+  },
+  "2301115": {
+    "name": "Calculus for Business I",
+    "credit": "3(3-0-6)",
+    "abbrev": "CALCULUS BUS I",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Limits and continuity; differentiation; integration; exponential functions; logarithmic functions; sequences and series of real numbers; interest and annuity; applications in business and finance."
+  },
+  "2301116": {
+    "name": "Calculus for Business II",
+    "credit": "3(3-0-6)",
+    "abbrev": "CALCULUS BUS II",
+    "prereq": [2301115],
+    "raw_prereq": "2301115",
+    "description": "Differential; functions of several variables; partial derivatives; matrices and business applications; maximum and minimum of functions; linear programming; introduction to differential equations; first order difference equations; double integrals and approximation of functions and integrals; applications in business and finance."
+  },
+  "2600300": {
+    "name": "Using Spreadsheet Software for Businesses",
+    "credit": "1(0-3-0)",
+    "abbrev": "USING SPREAD BUS",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Functions of spreadsheet software for businesses; usefulness of spreadsheet software for businesses; using spreadsheet software for business-related calculation"
+  },
+  "2601121": {
+    "name": "Principles of Accounting",
+    "credit": "3(3-0-6)",
+    "abbrev": "PRIN ACCTG",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Characteristics and basic concepts of accounting; recording process; special journals and control accounts; adjusting the accounts; accounting cycle; accounting for service, merchandising and manufacturing operations; value- added tax accounting; preparation of cash flow statement."
+  },
+  "2601123": {
+    "name": "International Accounting",
+    "credit": "3(3-0-6)",
+    "abbrev": "INTMD ACCTG I",
+    "prereq": [2601120, 2601121],
+    "raw_prereq": "2601120 OR 2601121",
+    "description": "Cash and internal control; recognition and valuation of receivables; estimation of bad debts; investments; recognition and valuation of inventory; recognition, valuation, and disposition of fixed assets, natural resources, and intangible assets; depreciation, depletion, amortization; current liabilities; long-term debts; stockholders\u2019 equity; retained earnings."
+  },
+  "2601222": {
+    "name": "Intermediate Accounting I",
+    "credit": "3(3-0-6)",
+    "abbrev": "INTMD ACCTG I",
+    "prereq": [2601121],
+    "raw_prereq": "2601121",
+    "description": "Cash and internal control; voucher system principles and procedures; recognition and valuation of receivables; factoring and assignments of receivables; investments; transfer of investments among categories; recognition and valuation of inventory; estimation of inventory; recognition, valuation, and disposition of property, plant, and equipment; intangible assets; borrowing costs; impairment of assets; presentation and disclosure of assets."
+  },
+  "2601223": {
+    "name": "Intermediate Accounting II",
+    "credit": "3(2-3-4)",
+    "abbrev": "INTMD ACCTG II",
+    "prereq": [2601222],
+    "raw_prereq": "2601222",
+    "description": "Evolution of accounting and professional accounting institutions; conceptual framework for financial reporting; presentation of financial statements; current liabilities; long-term debts; contingencies; events after the reporting period; troubled debt restructuring; stockholders\u2019 equity; retained earnings; stock rights; treasury stock; earnings per share; financial reporting disclosure; accounting changes; accounting errors; Incorporation and liquidation of companies."
+  },
+  "2601224": {
+    "name": "Managerial Accounting",
+    "credit": "3(3-0-6)",
+    "abbrev": "MNGL ACCTG",
+    "prereq": [2601120, 2601121],
+    "raw_prereq": "2601120 OR 2601121",
+    "description": "Role of managerial accounting; basic cost concepts and classifications; product costing; job costing; process costing; activity- based costing; full costing and variable costing; cost- volume- profit analysis; analysis of costs for decision making; standard costing and variance analysis; budgeting; responsibility accounting and performance evaluation; pricing and transfer pricing."
+  },
+  "2601225": {
+    "name": "Cost Accounting",
+    "credit": "3(3-0-6)",
+    "abbrev": "COST ACCOUNTING",
+    "prereq": [2601121],
+    "raw_prereq": "2601121",
+    "description": "Role of cost accounting on management; cost allocation concepts; cost accounting under job order, process and standard costing systems; cost accounting for material, labor, factory overhead, joint products and by-products; scrap, spoilage and defective goods."
+  },
+  "2601226": {
+    "name": "Accounting Information System",
+    "credit": "3(3-0-6)",
+    "abbrev": "AIS",
+    "prereq": [2601121, 2602241],
+    "raw_prereq": "2601121 and 2602241",
+    "description": "Nature of accounting information systems; elements and procedures of accounting information system; principles of system analysis and design; accounting information systems and control of basic business cycles: sales and cash collections, purchasing and cash disbursements, production cycle, inventory system, human resource management and payroll systems, general ledger and reporting cycle."
+  },
+  "2601227": {
+    "name": "Taxation",
+    "credit": "3(3-0-6)",
+    "abbrev": "TAXATION",
+    "prereq": [2601223],
+    "raw_prereq": "2601223",
+    "description": "Principles and types of taxation: personal income tax, corporate income tax, custom duty, and property tax; preparation of accounting records, forms and reports for payments of personal income tax, corporate income tax, value-added tax, special business tax, and withholding tax under the provision of the Revenue Code with emphasis on practical problems; difference between generally accepted accounting principles and Revenue Code."
+  },
+  "2601322": {
+    "name": "Auditing",
+    "credit": "3(3-0-6)",
+    "abbrev": "AUDITING",
+    "prereq": [2601223],
+    "raw_prereq": "2601223",
+    "description": "General knowledge of auditing; audit objective and scope; audit-related service engagements; legal provisions on auditing; professional ethics and responsibilities of auditors; auditing standards; client acceptance and continuance; audit planning; risk identification and assessment; materiality; internal control; audit evidence; use of the work of other experts; auditing techniques; audit sampling; audit of revenues, expenses, assets, liabilities and owners' equity; audit completion; auditor\u2019s reports; quality control for auditing."
+  },
+  "2601323": {
+    "name": "Advanced Accounting",
+    "credit": "3(3-0-6)",
+    "abbrev": "ADV ACCTG I",
+    "prereq": [2601223],
+    "raw_prereq": "2601223",
+    "description": "Head office and branch accounting; accounting for business combinations; preparation of consolidated financial statements between parents and subsidiary companies; accounting for foreign currency translations."
+  },
+  "2601324": {
+    "name": "Profit Planning and Control",
+    "credit": "3(3-0-6)",
+    "abbrev": "PROFIT PLAN/CTRL",
+    "prereq": [2601224],
+    "raw_prereq": "2601224",
+    "description": "Strategic planning; roles of profit planning and control; objectives and principles of planning and control; techniques in profit planning and control; budget preparation for trading, manufacturing and service businesses; behavioral aspects of budgeting; management control report and variance analysis; profitability analysis by product, business unit, customer and channel distribution."
+  },
+  "2601325": {
+    "name": "Principles and Techniques for Internal Auditing",
+    "credit": "3(3-0-6)",
+    "abbrev": "PRIN TECH INT AUD",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Principles of internal audit; management of the internal audit assignments; practice and techniques for internal audit; computer audit; operational audit; writing an audit manual; audit committee; prevention and detection of fraud."
+  },
+  "2601326": {
+    "name": "Analysis and Design of Accounting Database",
+    "credit": "3(2-2-5)",
+    "abbrev": "ANAL / DSGN ACCTG DB",
+    "prereq": [2601226],
+    "raw_prereq": "2601226",
+    "description": "Analysis of accounting information requirements and reports of various business cycles; types of data base structure: hierarchical, network, and relational; tools for data base analysis and design, entity relationship diagram and software for analysis and system design; issues in designing data base."
+  },
+  "2601328": {
+    "name": "Enterprise Resources Planning Software",
+    "credit": "3(2-2-5)",
+    "abbrev": "ERP SOFTWARE",
+    "prereq": [2601226],
+    "raw_prereq": "2601226",
+    "description": "Applications of widely used commercial ERP software; nature of enterprise information architecture; business process reengineering; customization and implementation of enterprise software emphasizing financial accounting module."
+  },
+  "2601423": {
+    "name": "Advanced Accounting II",
+    "credit": "3(3-0-6)",
+    "abbrev": "ADV ACCTG II",
+    "prereq": [2601223],
+    "raw_prereq": "2601223",
+    "description": "Accounting for partnership; joint arrangement; revenue recognition; leases; employee benefits; accounting for deferred income tax; accounting and disclosures for derivatives; accounting for non- publicly accountable entities; non-profit organizations and fund accounting; interim financial statements."
+  },
+  "2601424": {
+    "name": "International Accounting",
+    "credit": "3(3-0-6)",
+    "abbrev": "INTL ACCTG",
+    "prereq": [2601123, 2601222],
+    "raw_prereq": "2601123 or 2601222",
+    "description": "Problems in financial accounting, managerial accounting and auditing in international enterprises operating in countries with different economic, social, cultural, political and legal conditions; analysis of accounting variations and their fundamental causes; effects of foreign currency translation on accounting; international professional organizations and development of the accounting profession."
+  },
+  "2601426": {
+    "name": "Electronic Data Processing / Information System Audit",
+    "credit": "3(3-0-6)",
+    "abbrev": "EDP/IS AUDIT",
+    "prereq": [2601226, 2601322],
+    "raw_prereq": "2601226 and 2601322",
+    "description": "Impact of using computerized accounting systems on auditing; general and application control; computer fraud and crimes; evaluation of internal controls of computerized accounting systems; compliance tests of systems; substantive tests; using computer software to perform analytical review; audit program and techniques for computerized accounting systems."
+  },
+  "2601428": {
+    "name": "Advanced Auditing",
+    "credit": "3(3-0-6)",
+    "abbrev": "ADVANCED AUDITING",
+    "prereq": [2601322],
+    "raw_prereq": "2601322",
+    "description": "Ethical issues in auditing; applications of auditing techniques in various audit situations; statistical sampling in auditing; working paper preparations; auditor\u2019s reports; problems and cases."
+  },
+  "2601429": {
+    "name": "Financial Reporting and Analysis",
+    "credit": "3(3-0-6)",
+    "abbrev": "FIN REPORT ANAL",
+    "prereq": [2601223, 2604361],
+    "raw_prereq": "2601223 and 2604361",
+    "description": "Foundation for financial reporting analysis; impact of generally accepted accounting principles on financial analysis; tools and techniques of financial analysis; analysis of consolidated financial statements and single financial statements; preform financial statements; firm valuation; financial analysis of various businesses."
+  },
+  "2601497": {
+    "name": "Seminar in Accounting",
+    "credit": "3(3-0-6)",
+    "abbrev": "SEM ACCTG",
+    "prereq": [2601423],
+    "raw_prereq": "2601423",
+    "description": "Problems and current issues in accounting; application and integration of accounting for business decision making and management"
+  },
+  "2602171": {
+    "name": "Business Concepts and Ethics",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUS CPTS/ETHICS",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Concepts of business and types of business organizations; ethical theories and the role of social values; awareness and development of personal, social, professional, and business responsibilities and ethical behaviors."
+  },
+  "2602241": {
+    "name": "Introduction to Information Technology and Information Systems",
+    "credit": "3(3-0-6)",
+    "abbrev": "INTRO IT/IS",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Introduction of computer and computer applications in business; roles of information technology in solving business problems; concepts and technical background of information technology; planning, development, and management issues of computer-based information system."
+  },
+  "2602311": {
+    "name": "Intercultural Communication",
+    "credit": "3(3-0-6)",
+    "abbrev": "INTERCULTURAL COM",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Communication; culture; cultural awareness; cultural differences; organizational culture; cultural characteristics of international organizations; communication processes and strategies in the context of cultural differences; negotiation; strategies and negotiation processes in the context of cultural differences; communication for conflict management."
+  },
+  "2602313": {
+    "name": "Management and Organization",
+    "credit": "3(3-0-6)",
+    "abbrev": "MGT/ORGANIZATION",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Nature of organization; managerial process; role of managers and functions of management; planning, organizing, staffing, directing, motivating, and controlling; nature of authority, accountability and responsibility; analysis of managerial roles and the concept of leadership."
+  },
+  "2602323": {
+    "name": "Business Research",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUSINESS RESEARCH",
+    "prereq": [2603330],
+    "raw_prereq": "2603330",
+    "description": "Managerial uses of business research, determination of situations requiring research, theoretical concepts, appraisal of alternative research methods and analysis of obtained data for decision making."
+  },
+  "2602327": {
+    "name": "Quantitative Business Analysis",
+    "credit": "3(3-0-6)",
+    "abbrev": "QUANT BUS ANAL",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Principles, theories, quantitative model and their application in business: transportation model, assignment model, network analysis, inventory model, queuing theory, and simulation."
+  },
+  "2602330": {
+    "name": "Human Resource Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "HUMAN RESOURCE MGT",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Concepts and principles of human resource management; roles and responsibilities of human resource management; human resource policy and planning; employment; development and training; discipline; welfare; basic knowledge on wage, compensation."
+  },
+  "2602333": {
+    "name": "Business Psychology",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUS PSYCHO",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "History and value of business psychology; motivation; working conditions; environment and work role of psychology in assessment, recruitment and selection of personnel, job analysis, performance evaluation, learning and training, mental health and work, and basic knowledge of consumer behavior."
+  },
+  "2602336": {
+    "name": "Quality and Productivity Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "QUAL/PROD MGT",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Concepts of quality management; policies and processes of quality management; international standards of quality; statistical quality control; definitions of productivity; types of productivity; productivity cycle; measurement and evaluation of productivity; techniques in developing productivity; relationship between quality management and productivity management."
+  },
+  "2602344": {
+    "name": "Production/Operations Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "PROD OPER MGT",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "An introduction to the operations in manufacturing and service organizations; facility location; layout; production process; safety management; forecasting; operations planning and control, work measurement, quality management, inventory control management and just-in-time production."
+  },
+  "2602349": {
+    "name": "Enterprise Resources Planning",
+    "credit": "3(3-0-6)",
+    "abbrev": "ERP",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Enterprise resource planning systems concepts; importance of integrated information systems in an organization; business processes and functions in Enterprise resource planning systems: accounting, finance, human resources management, procurement, production, and sales; enterprise resource planning system software."
+  },
+  "2602358": {
+    "name": "Managerial Skills Development through Role Playing",
+    "credit": "3(1-4-4)",
+    "abbrev": "MNGL SKIL DEV ROLE",
+    "prereq": [2602313],
+    "raw_prereq": "2602313",
+    "description": "Managerial skills related to communication and creative thinking; role playing in different managerial situations; feeling expression; idea expression; taking other people's perspectives; managerial communication obstacles."
+  },
+  "2602370": {
+    "name": "Comparative International Business Management",
+    "credit": "1(1-0-2)",
+    "abbrev": "COMP INTL BUS MGT",
+    "prereq": [2602371],
+    "raw_prereq": "2602371",
+    "description": "Comparative study of business in foreign countries: investment strategies, business policies, marketing, and practices in international business management."
+  },
+  "2602371": {
+    "name": "Principles of International Business Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "PRIN INTL BUS MGT",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Principles and methods of dealing with multinationals; managing multinational companies; models and strategies of multinational corporate management; business functions: international marketing, international finance, comparative management, and international business policy."
+  },
+  "2602372": {
+    "name": "Regional Business Environment and Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "REG BUS ENV/MGT",
+    "prereq": [2602371],
+    "raw_prereq": "2602371",
+    "description": "Analysis of regional business environment, management systems and styles; comparison of regional environment: economics, politics, culture, social forces and technology; impacts of the environmental differences on management functions, strategies, styles, systems, and their competitive advantages."
+  },
+  "2602376": {
+    "name": "Logistic and Supply Chain Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "LOG SUP CHAIN MGT",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Overview of logistics process; transportation, inventory management, order processing, and customer services; structure and process of supply chain; marketing distribution in supply chain; procurement and manufacturing strategy; network and operational integration; enterprise resource planning; strategy in logistics and supply chain management, international logistics and supply chain management."
+  },
+  "2602396": {
+    "name": "CEO Business Experience",
+    "credit": "3(3-0-6)",
+    "abbrev": "CEO BUS EXP",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Issues and experiences in business; and business examples by CEOs."
+  },
+  "2602399": {
+    "name": "Managing Organization and Change and Innovation",
+    "credit": "3(3-0-6)",
+    "abbrev": "MNG ORG CHG INNO",
+    "prereq": [2602313],
+    "raw_prereq": "2602313",
+    "description": "Concepts of organization changes; process of change; internal and external change response; managing change resistance; organization development; entrepreneurship; creativity development; concepts and development of organization innovation."
+  },
+  "2602411": {
+    "name": "Business Planning for Entrepreneurs",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUS PLAN ENTRE",
+    "prereq": [2602416],
+    "raw_prereq": "2602416",
+    "description": "Business planning for entrepreneurs by writing and presenting a business plan"
+  },
+  "2602414": {
+    "name": "International Business Management Internship",
+    "credit": "0(0-18-0)",
+    "abbrev": "INTER BUS INTERN",
+    "prereq": [2602371],
+    "raw_prereq": "2602371",
+    "description": "Internship in the organization for enhancing knowledge and skills related to international business management"
+  },
+  "2602415": {
+    "name": "Principles of Management Consulting",
+    "credit": "3(3-0-6)",
+    "abbrev": "PRIN MGT CONS",
+    "prereq": [2602313],
+    "raw_prereq": "2602313",
+    "description": "Concepts of management consulting; characteristics of management consultants; management consulting process and approaches; managing client requirements; consulting project proposal preparation; data preparation for business problem analysis, principles and tools for business problem analysis, recommendation report preparation; communication for management consulting"
+  },
+  "2602416": {
+    "name": "Business Strategy",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUSINESS STRATEGY",
+    "prereq": [2602313],
+    "raw_prereq": "2602313",
+    "description": "Strategy and long-range planning; strategy formulating process; social, economic and political factors affecting strategy, role of a manager as an implementer of strategy."
+  },
+  "2602417": {
+    "name": "Entrepreneurship",
+    "credit": "3(3-0-6)",
+    "abbrev": "ENTREPRENEURSHIP",
+    "prereq": [2602313],
+    "raw_prereq": "2602313",
+    "description": "Characteristics of entrepreneur; analysis of entrepreneur\u2019s problems and opportunities; investigation of new business opportunities; business plan; concept of selecting business and type of investment; managing a young enterprise for profitability and growth."
+  },
+  "2602444": {
+    "name": "Development of Information Systems for Electronic Commerce",
+    "credit": "3(3-0-6)",
+    "abbrev": "DEV ELECT COM",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Concepts of Information system development for electronic commerce; software packages used in electronic commerce development; data in electronic commerce system; data security technology; current issues in information technology supporting electronic commerce."
+  },
+  "2602474": {
+    "name": "Business Management in Asian Countries",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUS MGT ASIAN COUN",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Asian business environment, philosophy, culture, beliefs, and ways of life that affect Asian management styles of Asian enterprises; problems and opportunities of foreign corporations in Asian countries, especially in Asian newly industrialized countries."
+  },
+  "2602475": {
+    "name": "Current Issues in International Business Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "CI INTL BUS MGT",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Selected topics of interest in current international business situations, emphasizing management systems, human resources, technology transfer, business negotiations, and foreign investment opportunities."
+  },
+  "2603210": {
+    "name": "Introduction to Statistics",
+    "credit": "3(3-0-6)",
+    "abbrev": "INTRO STATISTICS",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Statistics and its uses in business; characteristics of business data and their collection, elementary probability theory, random variables; hypergeometric, binomial, Poisson and normal distributions, sampling distribution; estimation of population mean, variance and proportion, testing hypothesis for one and two populations."
+  },
+  "2603244": {
+    "name": "General Principles of Insurance",
+    "credit": "3(3-0-6)",
+    "abbrev": "GEN PRIN INSURANCE",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Risk and risk management; insurance, types of insurance, principles of insurance contract, insurance statutes, different kinds of life insurance and non- life insurance."
+  },
+  "2603330": {
+    "name": "Business Statistics",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUSINESS STAT",
+    "prereq": [2603210],
+    "raw_prereq": "2603210",
+    "description": "Analysis of variance, simple and multiple regression and correlation, classical time series analysis, index numbers, tests on contingency table, introduction to statistical quality control, non-parametric statistics."
+  },
+  "2603347": {
+    "name": "Fundamental Risk Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "FUND RISK MGT",
+    "prereq": [2603210],
+    "raw_prereq": "2603210",
+    "description": "Concept of risk; risk and utility; analysis of management decision and administrative processes; risk management for individual and businesses; insurance; risk management financing and other risk management approaches; portfolio management; use of financial instruments; special topics in risk management."
+  },
+  "2604260": {
+    "name": "Financial Intermediaries",
+    "credit": "3(3-0-6)",
+    "abbrev": "FIN INTERM",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Perfect capital market and frictions; economics of financial intermediary; functions of financial institutions; benefits, costs, and outcomes of financial intermediary; roles of central banks; monetary policies and monitoring tools; economics of securities market regulation; roles of capital market regulators."
+  },
+  "2604271": {
+    "name": "Business Economics",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUSINESS ECONOMICS",
+    "prereq": [2900111],
+    "raw_prereq": "2900111",
+    "description": "Business objectives; nature of managerial decision making under uncertainty; concepts of profit; demand analysis and forecasting; cost analysis and control; competition, planning, production and production policies; pricing: theory, practices and policies; investment decision: government policies and business decision."
+  },
+  "2604313": {
+    "name": "Financial Econometrics",
+    "credit": "3(3-0-6)",
+    "abbrev": "FIN ECONOMETRICS",
+    "prereq": [2603330],
+    "raw_prereq": "2603330",
+    "description": "Concepts of econometrics and its application in finance; statistical properties of financial variables; application of regression analysis in finance; analyzing and Interpreting results from regression; diagnostic testing; analyzing and interpreting qualitative financial variables in regression models."
+  },
+  "2604314": {
+    "name": "Bank Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "BANK MGT",
+    "prereq": [2604361, 2604332],
+    "raw_prereq": "2604361 and 2604332",
+    "description": "Structure and evolution of the banking industry; fundamentals of the banking system; commercial bank regulation and central bank policies; analysis of commercial banks\u2019 financial statements; noninterest income and expense management; risk analysis and management for commercial bank; interest rate risk management; uses of interest rate derivatives; concepts of liquidity management; process of commercial and consumer loan approval; concepts of BASEL rules."
+  },
+  "2604332": {
+    "name": "Principle of Investment",
+    "credit": "3(3-0-6)",
+    "abbrev": "PRIN INVESTMENT",
+    "prereq": [2604361],
+    "raw_prereq": "2604361",
+    "description": "Investment process; investment tools; portfolio theory; efficient market theories; security valuation; equity securities analysis; debt securities analysis; alternative investment."
+  },
+  "2604334": {
+    "name": "Principle of Equity Analysis",
+    "credit": "3(3-0-6)",
+    "abbrev": "PRIN EQ ANAL",
+    "prereq": [2604332],
+    "raw_prereq": "2604332",
+    "description": "Fundamental analysis; market efficiency; market anomalies; discounted cash flow model; relative valuation models; economic value added; market value added; technical analysis; alternative investment analysis; real estate investment"
+  },
+  "2604361": {
+    "name": "Business Finance",
+    "credit": "3(3-0-6)",
+    "abbrev": "BUSINESS FINANCE",
+    "prereq": [2601121],
+    "raw_prereq": "2601121",
+    "description": "Financial statement analysis; financial planning and forecasting; working capital management; principles of risk and return; basics of financial security valuation; sources of funds and cost of capital; capital budgeting; capital structure; payout policy; derivatives securities."
+  },
+  "2604420": {
+    "name": "Current Issues in Finance",
+    "credit": "3(3-0-6)",
+    "abbrev": "CUR ISSUES FIN",
+    "prereq": [2604361],
+    "raw_prereq": "2604361",
+    "description": "Selected topics of interest in current financial management; Thai financial market development and changes including major financial institutions; relationships between local corporate financial management and globalization in financial market."
+  },
+  "2604421": {
+    "name": "Ethics for Financial Professional",
+    "credit": "1(1-0-2)",
+    "abbrev": "ETH FIN PROF",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Standard practices in professional and ethical manner."
+  },
+  "2604434": {
+    "name": "Venture Capital",
+    "credit": "3(3-0-6)",
+    "abbrev": "VENTURE CAPITAL",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Venture investment strategy development; venture capital partnership structure design; capital raising; investment opportunity evaluation; investment structuring; initial negotiation, and flow-up; working with venture portfolio companies; role and board of directors; investment problem; exit strategies; portfolio management; stage of investment, and leveraged buyouts."
+  },
+  "2604463": {
+    "name": "Analysis of Financial Reports",
+    "credit": "3(3-0-6)",
+    "abbrev": "ANAL FIN REPORTS",
+    "prereq": [2604361],
+    "raw_prereq": "2604361",
+    "description": "Use of techniques and methods for financial statement analysis; financial structure; financial analysis report preparation; financial analysis of various businesses such as banking, finance, insurance, commerce and industry."
+  },
+  "2604467": {
+    "name": "Advanced Business Finance",
+    "credit": "3(3-0-6)",
+    "abbrev": "ADV BUS FINANCE",
+    "prereq": [2604361],
+    "raw_prereq": "2604361",
+    "description": "Investment decisions under certainty and uncertainty; multi-period investment decisions; capital budgeting techniques; cost of equity estimation; agency conflicts; capital structure theories; dividend policy; initial public offerings; follow-on equity issuance; mergers and acquisitions; joint ventures."
+  },
+  "2604468": {
+    "name": "Feasibility Study and Project Evaluation",
+    "credit": "3(3-0-6)",
+    "abbrev": "FEAS STUD/PROJ EVA",
+    "prereq": [2604361],
+    "raw_prereq": "2604361",
+    "description": "Meaning of project and project evaluation; methods of project study; environmental effects on feasibility study; project feasibility analysis in management, production, marketing, finance, and economics; criteria for decision making; report preparation of feasibility studies; project monitoring and evaluation."
+  },
+  "2604471": {
+    "name": "International Trade",
+    "credit": "3(3-0-6)",
+    "abbrev": "INTL TRADE",
+    "prereq": [2604112, 2900111, 2900112, 2604271],
+    "raw_prereq": "2604112 OR (2900111 AND 2900112) OR 2604271",
+    "description": "Gain from trade, theory of comparative cost, mercantilism, free trade and protective policies, systems and types of tariff, import and export regulations, foreign exchange and its control, trade agreements, foreign investment, balance of payments, export and import procedures and arrangement for foreign transactions, trade settlement and marine insurance practices."
+  },
+  "2604472": {
+    "name": "International Economics",
+    "credit": "3(3-0-6)",
+    "abbrev": "INTL ECONOMICS",
+    "prereq": [2604271],
+    "raw_prereq": "2604271",
+    "description": "Roles of international trade in national economy; concepts and tools in international trade analysis; determination of international market equilibrium; price mechanism in international trade; international trade and its impacts on national income; income absorption approach to balance-of-payments problems; exchange rate systems and their effects; characteristics and outcomes of tariff policies and other related policies, balance-of-trade and balance-of- payments problems of a developing economy."
+  },
+  "2604477": {
+    "name": "International Financial Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "INTL FIN MGT",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Mechanisms in international financial markets; determination of exchange rate systems; international financial system; parity theories between exchange rates and various macroeconomic variables; exchange rate risk management; sources of international fund."
+  },
+  "2604481": {
+    "name": "Financial Derivatives",
+    "credit": "3(3-0-6)",
+    "abbrev": "FIN DEV",
+    "prereq": [2604332],
+    "raw_prereq": "2604332",
+    "description": "Types of financial derivatives: futures contracts and options contracts; roles and functions of derivative markets; trading and mechanisms of futures markets; pricing models for futures contracts; applications of futures contracts in risk management; features of option-based derivatives; trading strategies for option contracts; option pricing models; Binomial model and Black-Scholes model; applications of options in risk management"
+  },
+  "2604482": {
+    "name": "Fixed Income Security Analysis",
+    "credit": "3(3-0-6)",
+    "abbrev": "FIX INC SEC ANAL",
+    "prereq": [2604332],
+    "raw_prereq": "2604332",
+    "description": "Types and characteristics of fixed-income securities; roles of fixed-income markets; risks associated with investing in fixed-income securities; fixed income security pricing; analysis of price volatility in fixed-income securities; structure of interest rates; fixed-income securities from securitization; objectives and investment process of fixed-income security portfolios; strategies in fixed income security portfolio management."
+  },
+  "2604492": {
+    "name": "Computer Applications in Financial Management",
+    "credit": "3(2-2-5)",
+    "abbrev": "COMP APPLN FIN MGT",
+    "prereq": [2604361],
+    "raw_prereq": "2604361",
+    "description": "Concepts and methods of computer applications in financial management; process of constructing and maintaining financial information systems; financial simulation; considering financial alternatives under various assumptions; computer application in financial planning and strategies, cash flow, budgeting, financial monitoring and control; securities analysis and portfolio management."
+  },
+  "2604493": {
+    "name": "Advanced Topics in Finance",
+    "credit": "2(2-0-4)",
+    "abbrev": "ADV TOPICS FIN",
+    "prereq": [2604467],
+    "raw_prereq": "2604467",
+    "description": "In-depth analysis of problems and issues in advanced financial management; development and changes in financial markets and advanced financial theories; financial research."
+  },
+  "2604496": {
+    "name": "Investment Banking",
+    "credit": "3(3-0-6)",
+    "abbrev": "INVESTMENT BANKING",
+    "prereq": [2604467],
+    "raw_prereq": "2604467",
+    "description": "Overview of investment banking; equity and debt offerings; offer price setting; underwriting spread; venture capital and private equity valuation; securities designs; securitization; corporate rehabilitation; regulations and compliance issues."
+  },
+  "2605311": {
+    "name": "Principles of Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "PRIN MKTG",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Basic concepts in marketing, market and market segmentation, classification of goods and services, marketing functions, institutions and channels, market and the environments, the changing market, consumer\u2019s buying behavior and factors affecting consumer demand."
+  },
+  "2605314": {
+    "name": "Consumer Behavior",
+    "credit": "3(3-0-6)",
+    "abbrev": "CONSUMER BEHAVIOR",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Relationships between consumer behavior and marketing management; models of consumer behavior, variables influencing the purchasing decision; analysis of consumer behavior from the points of view of psychology, sociology, anthropology and economics."
+  },
+  "2605320": {
+    "name": "Current Issues in Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "CUR ISSUES MKTG",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Selected topics of interest in current marketing situations emphasizing marketing and the environment of marketing in Thailand and foreign countries."
+  },
+  "2605325": {
+    "name": "Brand and Product Management",
+    "credit": "3(3-0-6)",
+    "abbrev": "BRAND PROD MGT",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Target market selection; definitions of brand; brand positioning; brand building strategies; brand management; integrating brand with marketing mix; brand evaluation; meaning of products; types of products; product management; product strategies; new product development process; issues in brand and product management and corrections; ethics in brand building and product management."
+  },
+  "2605326": {
+    "name": "Sales Management and Selling Techniques",
+    "credit": "3(3-0-6)",
+    "abbrev": "SALE MGT SELL TECH",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Sales managers\u2019 functions in various businesses; salesforce management; sales planning; salesforce recruitment; selection and development of salesforce; work assignment and sales territories; sales quota setting; motivation; compensation; sales assessment control and sales executives\u2019 ethics; roles and sales function toward marketing success; types of sales; customer behavior; salesforce personality; selling process; industrial product sales; consumer product sales; service sales; time management; salesforce\u2019s ethics."
+  },
+  "2605327": {
+    "name": "Digital Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "DIGITAL MKTG",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Definition of Digital marketing; roles and importance of digital marketing to business, consumer and society; use of social media marketing tools, mobile marketing; measurement of effectiveness of digital marketing tools; customer database of digital marketing; ethics of digital marketers."
+  },
+  "2605328": {
+    "name": "Brand Building and Development",
+    "credit": "3(3-0-6)",
+    "abbrev": "BRAND BUILD DEV",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Meaning, roles, and the importance of brand; differences between marketing and branding; brand positioning; brand elements to create brand identity; meaning of brand equity; brand equity models; measuring sources of brand equity; building strong brand; brand communications; meaning and the importance of internal branding; strategic brand management; roles and responsibilities of a brand manager; case studies of brand building and brand development."
+  },
+  "2605329": {
+    "name": "Marketing Channel",
+    "credit": "3(3-0-6)",
+    "abbrev": "MKTG CHANNEL",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Meaning, roles and importance of marketing channel; marketing channel structure; types of marketing channel; retailing and wholesaling; marketing channel design and management; developing marketing channel strategy; channel conflict and problem solving."
+  },
+  "2605330": {
+    "name": "Integrated Brand and Marketing Communication",
+    "credit": "3(3-0-6)",
+    "abbrev": "INT BRAND MKT COMM",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Meaning, roles and importance of Integrated Marketing Communication (IMC); IMC model; IMC mix; advertising; public relations; sales promotions; direct marketing; IMC strategy in brand building; measuring the success of IMC."
+  },
+  "2605331": {
+    "name": "New Product Development and Customer Value Creation",
+    "credit": "3(3-0-6)",
+    "abbrev": "NEW PROD DEV VALUE",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Value creation concept; value creation process related to new product development; meaning and importance of new product development toward marketing management; categories of new product development; new product development process and value creation; success factors and the failure in new product development; management of new product development team; strategic planning for new product development; case studies of new product development."
+  },
+  "2605410": {
+    "name": "Integrated Marketing Communication",
+    "credit": "3(3-0-6)",
+    "abbrev": "INT MKT COMM",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Meanings; integrated marketing communications process; benefits of marketing communications; the marketing promotional mix; budgeting for marketing promotional activities; advertising; media selection for advertising; sales promotion; public relations; measuring marketing promotional effectiveness; personal selling and sales management; ethics in marketing communications."
+  },
+  "2605413": {
+    "name": "Fashion Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "FASHION MARKETING",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Concept; types and characteristics of fashion products; history of fashion; fashion cycle and fashion industry overview; consumer behavior in market fashion; marketing roles in fashion industry; product design and development for fashion industry; fashion branding strategy; pricing of fashion products; distribution channels in fashion markets; fashion merchandising and retailing; range planning of fashion products; visual merchandising in fashion industry; brand image enhancement of fashion products and integrated marketing communication; laws and ethics in fashion industry."
+  },
+  "2605414": {
+    "name": "Service Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "SERVICE MARKETING",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "The concepts of marketing and types of service marketing: personalized services (marketing personal services, professional services and business services) and financial services (bank marketing, insurance marketing and securities marketing); a program for marketing of services: market analysis and market planning, planning and developing the service, pricing of services, channels of distribution for service and promotion and the services\u2019 future outlook in service marketing."
+  },
+  "2605417": {
+    "name": "Industrial Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "INDL MARKETING",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Meaning of industrial product; categorization of industrial products; demand- supply and consumer behavior; technology; related laws regulations; government\u2019s policies and assistances to producers of industrial products; problem analysis in industrial product market; problem-solving; determining marketing strategy."
+  },
+  "2605419": {
+    "name": "Global Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "GLOBAL MKT",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Overview of global marketing management; international trade theory; global marketing environment and major institutions; structure and demographics of global markets; culture and global consumer behavior; global marketing strategy; organization and controlling global marketing activities."
+  },
+  "2605422": {
+    "name": "Technologies in Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "TECH MKT",
+    "prereq": [2603271, 2605311],
+    "raw_prereq": "2603271 and 2605311",
+    "description": "Meanings, objectives, roles and importance of marketing technology; current marketing technology; applications of technology in marketing; impacts on business; potential threats and opportunities; future trends in marketing technology."
+  },
+  "2605425": {
+    "name": "Marketing Strategy",
+    "credit": "3(3-0-6)",
+    "abbrev": "MKT STRA",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Meanings, roles and importance of marketing strategies for business competition; analysis of internal and external environments; integration of marketing functions with other business functions; formulating marketing mix strategies."
+  },
+  "2605429": {
+    "name": "Brand Building for Service Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "BRAND SERVICE MKTG",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Environment of branding for service marketing; service gaps; consumer behavior in service industry; branding process for service marketing; planning for branding for service marketing; examples of successful branding for service marketing; key success factors of branding for service marketing."
+  },
+  "2605430": {
+    "name": "Marketing Internship",
+    "credit": "0(0-18-0)",
+    "abbrev": "MKTG INTERNSHIP",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Marketing practice in leading companies."
+  },
+  "2605431": {
+    "name": "Marketing planning and Control",
+    "credit": "3(3-0-6)",
+    "abbrev": "MKTG PLAN CONTROL",
+    "prereq": [2605410, 2605452],
+    "raw_prereq": "2605410 or 2605452 or Consent of Faculty",
+    "description": "Meaning, role and importance of marketing planning; marketing plan components; situational analysis; external and internal marketing environmental analysis; market and customer analysis; competitor analysis; SWOT analysis; objectives setting; marketing mix formulation; financial analysis; budgeting; types and methods of marketing control; efficient communication in and presentation of marketing plan."
+  },
+  "2605452": {
+    "name": "Pricing",
+    "credit": "3(3-0-6)",
+    "abbrev": "PRICING",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "Meaning of price principle in pricing; pricing policies; pricing procedures; factors to consider in price setting; criteria used in price setting; economics pricing; psychological pricing analysis of relationship among price, costs and profit; ethics in pricing."
+  },
+  "2605481": {
+    "name": "Marketing Research",
+    "credit": "3(3-0-6)",
+    "abbrev": "MARKETING RESEARCH",
+    "prereq": [2603330, 2605311],
+    "raw_prereq": "2603330 and 2605311",
+    "description": "Marketing management background, marketing research content and strategy, research design and strategy, types of information and sources of error in information from respondents, the means of obtaining information from respondents, measurement and Scaling in marketing research, sampling of respondents, the field force, research presentation, follow-up and research process evaluation."
+  },
+  "2605491": {
+    "name": "Seminar in Marketing",
+    "credit": "3(3-0-6)",
+    "abbrev": "SEM MARKETING",
+    "prereq": [2605311],
+    "raw_prereq": "2605311",
+    "description": "The seminar encourages student to investigate various phases of marketing. Report are prepared individually, but students investigating related subjects participate in group discussions with experienced marketing executives."
+  },
+  "2900111": {
+    "name": "Economics I",
+    "credit": "3(3-0-6)",
+    "abbrev": "ECONOMICS I",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Price determination by demand and supply; basic concepts of utility theory and indifference curve relating to consumer behavior; basic concepts of production; the theory of production and costs; various forms of market and equilibrium of the firm and industry; a survey of factor markets and factor pricing theories."
+  },
+  "3401250": {
+    "name": "Business Law",
+    "credit": "2(2-0-4)",
+    "abbrev": "BUSINESS LAW",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Meaning, sources, categories and applicability of law; relationship between law and business; sources of business law; introduction to investment law; introduction to contract; significant business contracts; types of business organization; laws on management of business organization, business finance and marketing; dispute settlement in business."
+  },
+  "3401260": {
+    "name": "Taxation Law",
+    "credit": "2(2-0-4)",
+    "abbrev": "TAXATION LAW",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Principles and categories of tax; effects of tax on business; personal income tax; corporate income tax; value added tax; specific business tax; stamp duties; customs duties; excise tax; introduction to tax planning for business."
+  },
+  "3405251": {
+    "name": "International Business Law",
+    "credit": "2(2-0-4)",
+    "abbrev": "INTER BUS LAW",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "International law; sources of law on international business law; barrier and elimination of barrier in international business law; World Trade Organization and international trade regulations; public economic law on international business law; international contract; law and contract on foreign investment, international transfer of technology, international trade, international loan; international investment protection; dispute settlement in international business."
+  },
+  "5506101": {
+    "name": "Essential English for Business I",
+    "credit": "3(2-2-5)",
+    "abbrev": "ESS ENG BUS I",
+    "prereq": [],
+    "raw_prereq": null,
+    "description": "Basic business vocabulary: practice in the four language skills, emphasizing reading for main ideas and details, vocabulary development, sentence and short paragraph writing, and oral communication."
+  },
+  "5506112": {
+    "name": "Essential English for Business II",
+    "credit": "3(2-2-5)",
+    "abbrev": "ESS ENG BUS II",
+    "prereq": [5506101],
+    "raw_prereq": "5506101",
+    "description": "Further practice in the four language skills emphasizing reading for main ideas and details, vocabulary development, short and long paragraph writing, and oral communication."
+  },
+  "5506123": {
+    "name": "Business Writing Skills",
+    "credit": "3(2-2-5)",
+    "abbrev": "BUS WRIT SKIL",
+    "prereq": [5506112],
+    "raw_prereq": "5506112",
+    "description": "Practice in writing essays on business topics, using different sentence types and patterns paraphrasing and summarizing."
+  },
+  "5506214": {
+    "name": "Business Written Communication",
+    "credit": "2(1-2-3)",
+    "abbrev": "BUS WRIT COMM",
+    "prereq": [5506123],
+    "raw_prereq": "5506123",
+    "description": "Practice in writing business letters, emails and faxes."
+  },
+  "5506225": {
+    "name": "Business Report Writing",
+    "credit": "2(1-2-3)",
+    "abbrev": "BUS REP WRIT",
+    "prereq": [5506214],
+    "raw_prereq": "5506214",
+    "description": "Practice in writing short business reports and minutes of business meetings."
+  },
+  "5506236": {
+    "name": "Business Oral Communication",
+    "credit": "3(2-2-5)",
+    "abbrev": "BUS ORAL COMM",
+    "prereq": [5506214, 5506225],
+    "raw_prereq": "5506214 and 5506225",
+    "description": "Practice in business presentations and formal business meetings."
+  }
+}
